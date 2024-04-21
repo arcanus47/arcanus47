@@ -1,7 +1,5 @@
-# ![https://arcanus47.github.io/] Hola, mi nombre es Cheremi Checo Domínguez 👋
+# Hola, mi nombre es Cheremi Checo Domínguez 👋
 ### Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions
-
-![https://github.com/arcanus47]
 
 Soy Desarrollador de Software
 
