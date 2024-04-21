@@ -1,5 +1,11 @@
-### Hi there 👋
+# ![https://arcanus47.github.io/] Hola, mi nombre es Cheremi Checo Domínguez 👋
+### Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions
 
+![https://github.com/arcanus47]
+
+Soy Desarrollador de Software
+
+## Tecnologías:
 <!--
 **arcanus47/arcanus47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
