@@ -7,22 +7,16 @@ Soy Desarrollador de Software
 
 #### Lenguajes de Programación:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-
-#### Desktop:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
-
-#### Frontend:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Frameworks:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>]([bootstrap](https://getbootstrap.com/))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>](https://flask.palletsprojects.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-
-#### Backend:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>]([bootstrap](https://getbootstrap.com/))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
+
+#### Base de Datos:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
 #### Sistemas Operativos:
