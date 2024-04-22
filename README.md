@@ -8,7 +8,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 Empecé en el mundo de la Programación a mediados del 2012 con el Lenguaje de Programación Java, estuve con este lenguaje hasta 2019 aunque lo deje usar en varias ocasiones para probar otros lenguajes. Entre el 2019 y la primera parte del 2021 estuve utilizando C# y Python. Del 2021 hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.
 
-A mediados del 2021 empece a trabajar como Freelance en Fiverr hasta finales del 2023, a principios del 2024 me pase a Upwork, ademas en julio del 2023 cree CH Solutions es una Agencia de Desarrollo de Software dedicada a proveer servicios y soluciones tecnológicas.
+A mediados del 2021 empecé a trabajar como Freelance en Fiverr hasta finales del 2023, a principios del 2024 me pase a Upwork, además en julio del 2023 cree CH Solutions es una Agencia de Desarrollo de Software dedicada a proveer servicios y soluciones tecnológicas.
 
 ## Tecnologías:
 
