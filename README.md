@@ -7,7 +7,7 @@
 ## Sobre mi:
 <p align="justify"> Empecé en el mundo de la Programación a mediados del 2012 con el Lenguaje de Programación Java, estuve con este lenguaje hasta 2019 aunque lo deje usar en varias ocasiones para   probar otros Lenguajes de Programación "C, Visual Basic, JavaScript, Delphi, Python, Ensamblador, SQL". Entre el 2019 y la primera parte del 2021 estuve utilizando C# y Python. Del 2021 hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.</p>
 
-<p align="justify"> A mediados del 2021 empecé a trabajar como Freelance en Fiverr hasta finales del 2023, a principios del 2024 me pase a Upwork, además en julio del 2023 cree </p>[**CH-Solutions**](https://chsolutionsoficial.github.io/)es una Agencia de Desarrollo de Software dedicada a proveer servicios y soluciones tecnológicas.</p>
+[<p align="justify"> A mediados del 2021 empecé a trabajar como Freelance en Fiverr hasta finales del 2023, a principios del 2024 me pase a Upwork, además en julio del 2023 cree CH Solutions es una Agencia de Desarrollo de Software dedicada a proveer servicios y soluciones tecnológicas.</p>]
 
 ## Tecnologías:
 
