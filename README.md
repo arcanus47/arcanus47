@@ -27,14 +27,14 @@
 #### Base de Datos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  [<img height="58px" width="58px" alt="Icone VS-Code" src="access.ico"/>](https://www.microsoft.com/es-es/microsoft-365/access)
+  [<img height="55px" width="55px" alt="Icone VS-Code" src="access.ico"/>](https://www.microsoft.com/es-es/microsoft-365/access)
 
 #### Herramientas:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="50px" width="50px" alt="Icone VS-Code" src="qt_designer.ico"/>](https://build-system.fman.io/)
+  [<img height="49px" width="49px" alt="Icone VS-Code" src="qt_designer.ico"/>](https://build-system.fman.io/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=anaconda"/>](https://www.anaconda.com/)
 
 #### Sistemas Operativos:
