@@ -2,7 +2,7 @@
 
 <img src="header.png">
 
-<h2 align="center">| Desktop | Frontend | Backend | Mobile | Ciberseguridad |</h2>
+<h2 align="center">| Escritorio | Frontend | Backend | Mobile | Ciberseguridad |</h2>
 
 ## Sobre mi:
 <p align="justify"> Empecé en el mundo de la Programación a mediados del 2012 con el Lenguaje de Programación Java, estuve con este lenguaje hasta 2019 aunque lo deje usar en varias ocasiones para   probar otros Lenguajes de Programación "C, Visual Basic, JavaScript, Delphi, Python, Ensamblador, SQL". Entre el 2019 y la primera parte del 2021 estuve utilizando C# y Python. Del 2021 hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.</p>
