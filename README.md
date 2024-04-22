@@ -34,7 +34,7 @@ Soy Desarrollador de Software
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.kernel.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=debian"/>](https://www.debian.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>]([https://sass-lang.com/](https://ubuntu.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
 <br>
 
 ## Contacto:
