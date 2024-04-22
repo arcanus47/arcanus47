@@ -2,7 +2,7 @@
 
 <img src="header.png">
 
-<h1 align="center">### Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions</h1>
+<h1 align="center">Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions</h1>
 
 ## Sobre mi:
 Soy Desarrollador de Software
