@@ -27,7 +27,7 @@
 #### Base de Datos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  [<img height="55px" width="55px" alt="Icone VS-Code" src="access.ico"/>](https://www.microsoft.com/es-es/microsoft-365/access)
+  [<img height="50px" width="50px" alt="Icone VS-Code" src="access.ico"/>](https://www.microsoft.com/es-es/microsoft-365/access)
 
 #### Herramientas:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
