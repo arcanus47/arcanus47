@@ -1,6 +1,8 @@
 # Hola, mi nombre es Cheremi Checo Domínguez 👋
 ### Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions
 
+<img src="header.png">
+
 Soy Desarrollador de Software
 
 ## Tecnologías:
