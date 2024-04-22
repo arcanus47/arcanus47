@@ -5,7 +5,9 @@
 <h2 align="center">Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions</h2>
 
 ## Sobre mi:
-Soy Desarrollador de Software
+Soy Desarrollador de Software desde hace 7 años.
+
+Empece en esto de la Programación a mediados del 2012
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
