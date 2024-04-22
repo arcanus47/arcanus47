@@ -5,9 +5,7 @@
 <h2 align="center">Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions</h2>
 
 ## Sobre mi:
-Soy Desarrollador de Software desde hace 7 años.
-
-Empecé en esto de la Programación a mediados del 2012 con el Lenguaje de Programación Java, estuve con este lenguaje hasta 2019 aunque lo deje usar en varias ocasiones para probar otros lenguajes. Entre el 2019 y la primera parte del 2021 estuve utilizando C# y Python. Del 2021 hasta la actualidad solo utilizo Python.
+Empecé en el mundo de la Programación a mediados del 2012 con el Lenguaje de Programación Java, estuve con este lenguaje hasta 2019 aunque lo deje usar en varias ocasiones para probar otros lenguajes. Entre el 2019 y la primera parte del 2021 estuve utilizando C# y Python. Del 2021 hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
