@@ -3,7 +3,11 @@
 <img src="header.png">
 
 ### Freelance Desktop, Frontend, Backend, Mobile y CEO de CH-Solutions
+
+## Sobre mi:
 Soy Desarrollador de Software
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## Tecnologías:
 
