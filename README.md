@@ -13,6 +13,7 @@
 
 #### Lenguajes de Programación y Frameworks:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=qt"/>](https://www.qt.io/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="CustomTkinter.ico"/>](https://customtkinter.tomschimansky.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="flet.svg"/>](https://flet.dev/)
