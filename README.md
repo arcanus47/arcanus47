@@ -51,6 +51,8 @@
 
 ## Artículos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="quora.svg"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="dev.svg"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="stackoverflow.svg"/>]()
   
 ## Contacto:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:cheremycheco@gmail.com)
