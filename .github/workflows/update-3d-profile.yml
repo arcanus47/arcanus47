@@ -19,8 +19,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}  # Nombre de usuario de GitHub
       - name: Commit & Push the Generated Image
         run: |
-          git config user.arcanus47 github-actions  # Configuramos el nombre de usuario para los commits
-          git config user.cheremycheco@gmail.com github-actions@github.com  # Configuramos el email
+          git config user.name arcanus47  # Configuramos el nombre de usuario para los commits
+          git config user.email cheremycheco@gmail.com  # Configuramos el email
           git add -A .  # Agregamos todos los cambios
           git commit -m "generated"  # Hacemos un commit con el mensaje "generated"
           git push  # Empujamos los cambios al repositorio
