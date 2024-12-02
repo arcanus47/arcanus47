@@ -53,8 +53,8 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arcanus47&show_icons=true&hide_title=true&theme=dark)
 
 ## Artículos:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="quora.svg"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="dev.svg"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="quora.svg"/>](https://es.quora.com/profile/Cheremi-Checo-Dom%C3%ADnguez)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="dev.svg"/>](https://dev.to/arcanus47)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="stackoverflow.svg"/>]()
   
 ## Contacto:
