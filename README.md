@@ -42,6 +42,7 @@
 
 #### Sistemas Operativos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/es-es/windows)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="macos.svg"/>](https://www.apple.com/mac/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.kernel.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=debian"/>](https://www.debian.org/)
