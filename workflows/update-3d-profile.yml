@@ -26,7 +26,7 @@ jobs:
 
     - name: Generate the 3D profile image
       run: |
-        npm run deploy -- --username=tu_usuario_de_github  # Cambia "tu_usuario_de_github" por tu nombre de usuario
+        npm run deploy -- --username=arcanus47  # Cambia "tu_usuario_de_github" por tu nombre de usuario
 
     - name: Commit the generated image
       run: |
