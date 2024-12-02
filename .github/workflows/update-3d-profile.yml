@@ -15,12 +15,12 @@ jobs:
       - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Usamos la acción que genera el gráfico 3D
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Usa el token de acceso personal
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usa el token de acceso personal
           USERNAME: ${{ github.repository_owner }}  # Nombre de usuario de GitHub
       - name: Commit & Push the Generated Image
         run: |
           git config user.name arcanus47  # Configuramos el nombre de usuario para los commits
           git config user.email cheremycheco@gmail.com  # Configuramos el email
-          git add -A .  # Agregamos todos los cambios
-          git commit -m "generated"  # Hacemos un commit con el mensaje "generated"
-          git push  # Empujamos los cambios al repositorio
+          git add -A .
+          git commit -m "generated 3D profile"
+          git push https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
