@@ -1,38 +1,26 @@
-name: Update 3D Profile Contributions
+name: GitHub-Profile-3D-Contrib
 
 on:
-  push:
-    branches:
-      - main  # O cualquier otra rama en la que quieras ejecutar la acción
-  schedule:
-    - cron: '0 0 * * *'  # Este cron job se ejecuta todos los días a la medianoche (UTC)
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"  # Esto hace que se ejecute todos los días a las 18:00 UTC
+  workflow_dispatch:  # Esto permite ejecutar el flujo manualmente desde GitHub
 
 jobs:
-  update-3d-contrib:
-    runs-on: ubuntu-latest
-
+  build:
+    runs-on: ubuntu-latest  # Se ejecuta en un entorno Ubuntu
+    name: generate-github-profile-3d-contrib
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'  # Usa la versión de Node.js que prefieras
-
-    - name: Install dependencies
-      run: |
-        npm install
-
-    - name: Generate the 3D profile image
-      run: |
-        node src/generate.js --username=arcanus47  # Cambia la ruta si el archivo está en una subcarpeta
-      working-directory: ./  # Cambia la ruta si es necesario
-
-    - name: Commit the generated image
-      run: |
-        git add profile-3d-contrib.svg  # Si el archivo generado es un SVG, cambia la extensión si es necesario
-        git commit -m "Actualizar gráfico 3D de contribuciones"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v3  # Se hace un checkout del código del repositorio
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Usamos la acción que genera el gráfico 3D
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de acceso
+          USERNAME: ${{ github.repository_owner }}  # Nombre de usuario de GitHub
+      - name: Commit & Push the Generated Image
+        run: |
+          git config user.arcanus47 github-actions  # Configuramos el nombre de usuario para los commits
+          git config user.cheremycheco@gmail.com github-actions@github.com  # Configuramos el email
+          git add -A .  # Agregamos todos los cambios
+          git commit -m "generated"  # Hacemos un commit con el mensaje "generated"
+          git push  # Empujamos los cambios al repositorio
