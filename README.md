@@ -49,6 +49,9 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
 <br>
 
+## Actividad:
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arcanus47&show_icons=true&hide_title=true&theme=dark)
+
 ## Artículos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="quora.svg"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="dev.svg"/>]()
