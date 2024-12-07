@@ -55,7 +55,7 @@
 ## Artículos:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="quora.svg"/>](https://es.quora.com/profile/Cheremi-Checo-Dom%C3%ADnguez)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="dev.svg"/>](https://dev.to/arcanus47)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="stackoverflow.svg"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="stackoverflow.svg"/>](https://es.stackoverflow.com/users/422628/arcanus47)
   
 ## Contacto:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:cheremycheco@gmail.com)
