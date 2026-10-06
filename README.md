@@ -1,14 +1,19 @@
-<h1 align="center">Hola, soy Cheremi Checo Domínguez 👋</h1>
+<h1 align="center">👋 Hola, soy Cheremi Checo Domínguez</h1>
 
 <p align="center">
-  <strong>Software Developer · Backend · Frontend · Desktop · Mobile · Cybersecurity</strong>
+  <strong>Software Developer</strong>
+  <br>
+  Backend · Frontend · Desktop · Web · Databases · Cybersecurity
 </p>
 
 <p align="center">
-  <a href="https://arcanus47.github.io/">Portafolio</a> •
-  <a href="https://chsolutionsoficial.github.io/">CH Solutions</a> •
-  <a href="https://github.com/arcanus47">GitHub</a> •
-  <a href="https://www.linkedin.com/in/cheremichecodominguez/">LinkedIn</a>
+  <a href="https://arcanus47.github.io/">🌐 Portafolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://chsolutionsoficial.github.io/">🚀 CH Solutions</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/cheremichecodominguez/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:cheremycheco@gmail.com">✉️ Contacto</a>
 </p>
 
 <p align="center">
@@ -19,53 +24,67 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **desarrollador de software** con experiencia en desarrollo **backend, frontend, aplicaciones de escritorio, soluciones web y bases de datos**, además de un creciente enfoque en **ciberseguridad**.
+Soy **desarrollador de software** enfocado en crear aplicaciones y soluciones tecnológicas funcionales, escalables y orientadas a resolver problemas reales.
 
-Mi camino en la programación comenzó a mediados de **2012 con Java**. Desde entonces he trabajado y experimentado con diferentes lenguajes y tecnologías, incluyendo **C, C#, Visual Basic, JavaScript, Delphi, Python, SQL y Assembly**.
+Mi camino en la programación comenzó en **2012 con Java**. Desde entonces he explorado diferentes lenguajes, frameworks y tecnologías, incluyendo **C, C#, Visual Basic, JavaScript, Delphi, Python, SQL y Assembly**.
 
-Entre **2019 y 2021** profundicé especialmente en **C# y Python**, y desde 2021 Python se convirtió en una de mis principales herramientas para desarrollar aplicaciones y soluciones de software. Aun así, considero que el lenguaje es una herramienta y el problema es lo que realmente importa; por eso utilizo la tecnología que mejor se adapta a cada proyecto.
+Entre **2019 y 2021** profundicé principalmente en **C# y Python**. Desde 2021, Python se convirtió en una de mis principales herramientas de desarrollo, aunque continúo utilizando diferentes tecnologías dependiendo de las necesidades de cada proyecto.
 
-En **2021** comencé mi etapa como freelancer, trabajando inicialmente en Fiverr hasta 2023 y posteriormente en Upwork.
+En **2021** comencé mi etapa como freelancer, trabajando inicialmente en Fiverr y posteriormente en Upwork.
 
-En **julio de 2023** fundé **[CH Solutions](https://chsolutionsoficial.github.io/)**, una iniciativa enfocada en el desarrollo de software y la creación de soluciones tecnológicas.
+En **2023** fundé **CH Solutions**, una iniciativa dedicada al desarrollo de software y a la creación de soluciones tecnológicas.
 
-Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnologías y fortaleciendo mis conocimientos en **ingeniería de software, desarrollo web, sistemas y ciberseguridad**.
+Actualmente estoy enfocado en seguir creciendo como desarrollador, construir proyectos propios y fortalecer mis conocimientos en **ingeniería de software, desarrollo web, sistemas, arquitectura y ciberseguridad**.
 
----
-
-## 🚀 Especialidades
-
-* 🐍 Desarrollo Backend con Python
-* 🌐 Desarrollo Web
-* 🖥️ Aplicaciones de Escritorio
-* 📱 Desarrollo de aplicaciones
-* 🗄️ Diseño y gestión de bases de datos
-* 🔐 Ciberseguridad
-* ⚙️ Automatización y herramientas de software
-* 🐧 Sistemas Linux
-* 🧩 Diseño y desarrollo de soluciones a medida
+> 💡 **Mi enfoque:** aprender continuamente, construir soluciones y convertir ideas en software.
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Áreas de trabajo
 
-### 💻 Lenguajes & Frameworks
+<table>
+<tr>
+<td width="50%">
 
-<p>
+### 💻 Desarrollo de Software
+
+* Backend
+* Frontend
+* Aplicaciones Web
+* Aplicaciones de Escritorio
+* Automatización
+* APIs y servicios
+* Herramientas personalizadas
+
+</td>
+<td width="50%">
+
+### 🔐 Tecnología & Sistemas
+
+* Ciberseguridad
+* Bases de datos
+* Sistemas Linux
+* Administración de entornos
+* Git & GitHub
+* Arquitectura de software
+* Desarrollo de soluciones
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes & Desarrollo
+
+<p align="left">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
   </a>
   <a href="https://www.lua.org/">
     <img src="https://skillicons.dev/icons?i=lua" height="48" alt="Lua">
-  </a>
-  <a href="https://www.qt.io/">
-    <img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt">
-  </a>
-  <a href="https://customtkinter.tomschimansky.com/">
-    <img src="CustomTkinter.ico" height="48" alt="CustomTkinter">
-  </a>
-  <a href="https://flet.dev/">
-    <img src="flet.svg" height="48" alt="Flet">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5">
@@ -76,17 +95,31 @@ Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnolo
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap">
   </a>
+  <a href="https://www.qt.io/">
+    <img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt">
+  </a>
+</p>
+
+### 🐍 Python Ecosystem
+
+<p align="left">
   <a href="https://flask.palletsprojects.com/">
     <img src="https://skillicons.dev/icons?i=flask" height="48" alt="Flask">
   </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django">
   </a>
+  <a href="https://customtkinter.tomschimansky.com/">
+    <img src="CustomTkinter.ico" height="48" alt="CustomTkinter">
+  </a>
+  <a href="https://flet.dev/">
+    <img src="flet.svg" height="48" alt="Flet">
+  </a>
 </p>
 
 ### 🗄️ Bases de Datos
 
-<p>
+<p align="left">
   <a href="https://www.sqlite.org/">
     <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite">
   </a>
@@ -96,9 +129,9 @@ Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnolo
   <img src="access.ico" height="48" alt="Microsoft Access">
 </p>
 
-### 🔧 Herramientas & Entorno
+### 🔧 Herramientas
 
-<p>
+<p align="left">
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code">
   </a>
@@ -121,7 +154,7 @@ Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnolo
 
 ### 🐧 Sistemas Operativos
 
-<p>
+<p align="left">
   <a href="https://www.microsoft.com/windows">
     <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows">
   </a>
@@ -144,7 +177,33 @@ Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnolo
 
 ---
 
-## 📊 GitHub
+## 🚀 Proyectos
+
+### 🏢 CH Solutions
+
+**Agencia de desarrollo de software enfocada en crear aplicaciones funcionales y soluciones tecnológicas.**
+
+[🌐 Visitar CH Solutions](https://chsolutionsoficial.github.io/)
+
+---
+
+### 💼 Portafolio
+
+Mi espacio personal para presentar proyectos, experiencia y trabajo como desarrollador.
+
+[🌐 Ver portafolio](https://arcanus47.github.io/)
+
+---
+
+### 🧪 Proyectos Open Source
+
+Trabajo constantemente en proyectos propios, herramientas, experimentos y soluciones orientadas al aprendizaje y a resolver problemas reales.
+
+[📂 Explorar mis repositorios](https://github.com/arcanus47?tab=repositories)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -162,11 +221,26 @@ Actualmente continúo desarrollando proyectos propios, explorando nuevas tecnolo
 
 ---
 
+## 🧊 Isometric Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contributions.svg"
+    alt="GitHub Isometric Contribution Calendar"
+  />
+</p>
+
+<p align="center">
+  <sub>Actualizado automáticamente mediante GitHub Actions.</sub>
+</p>
+
+---
+
 ## ✍️ Artículos & Comunidad
 
-Comparto conocimientos, experiencias y contenido relacionado con programación y tecnología en diferentes plataformas.
+Comparto conocimientos, experiencias y contenido relacionado con programación y tecnología.
 
-<p>
+<p align="left">
   <a href="https://dev.to/arcanus47">
     <img src="dev.svg" height="48" alt="DEV Community">
   </a>
@@ -180,27 +254,9 @@ Comparto conocimientos, experiencias y contenido relacionado con programación y
 
 ---
 
-## 🌐 Proyectos & Presencia
+## 📫 Conecta conmigo
 
-### 🚀 CH Solutions
-
-**Agencia de desarrollo de software enfocada en crear aplicaciones funcionales y soluciones tecnológicas.**
-
-🔗 [chsolutionsoficial.github.io](https://chsolutionsoficial.github.io/)
-
-### 💼 Portafolio
-
-Una muestra de mis proyectos, experiencia y trabajo como desarrollador.
-
-🔗 [arcanus47.github.io](https://arcanus47.github.io/)
-
----
-
-## 📫 Contacto
-
-Si quieres hablar sobre desarrollo de software, tecnología, proyectos o posibles colaboraciones:
-
-<p>
+<p align="center">
   <a href="mailto:cheremycheco@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email">
   </a>
@@ -215,12 +271,14 @@ Si quieres hablar sobre desarrollo de software, tecnología, proyectos o posible
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://buymeacoffee.com/arcanus47">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         height="45"
-         width="170"
-         alt="Buy Me a Coffee">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="45"
+      width="170"
+      alt="Buy Me a Coffee"
+    />
   </a>
 </p>
 
@@ -228,9 +286,13 @@ Si quieres hablar sobre desarrollo de software, tecnología, proyectos o posible
 
 <div align="center">
 
-### 💡 "Construyendo soluciones, aprendiendo constantemente y convirtiendo ideas en software."
+### ⚡ Build. Learn. Solve. Repeat.
 
-<br>
+<sub>
+Software, systems and ideas turned into real solutions.
+</sub>
+
+<br><br>
 
 <picture>
   <source
@@ -247,23 +309,8 @@ Si quieres hablar sobre desarrollo de software, tecnología, proyectos o posible
   />
 </picture>
 
+<br><br>
+
+<sub>© Cheremi Checo Domínguez · Software Developer</sub>
+
 </div>
-
-<h2 align="center">📈 Contribuciones</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-light.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-light.svg"
-      alt="GitHub Isometric Contributions"
-    />
-  </picture>
-</p>
