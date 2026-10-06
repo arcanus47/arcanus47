@@ -248,3 +248,22 @@ Si quieres hablar sobre desarrollo de software, tecnología, proyectos o posible
 </picture>
 
 </div>
+
+<h2 align="center">📈 Contribuciones</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/arcanus47/github-contributions/main/output/contribs-light.svg"
+      alt="GitHub Isometric Contributions"
+    />
+  </picture>
+</p>
